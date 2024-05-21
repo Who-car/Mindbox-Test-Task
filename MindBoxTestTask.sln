@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFiguresSquare", "MathFiguresSquare\MathFiguresSquare.csproj", "{0566078B-754D-4FFC-B69E-1E248F3FD53B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupProject", "StartupProject\StartupProject.csproj", "{B2906227-123C-46FF-8479-9A727B5984BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFiguresSquare.Tests", "MathFiguresSquare.Tests\MathFiguresSquare.Tests.csproj", "{7CC2F4F5-0072-4AFB-9B46-34A3D0BCFF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0566078B-754D-4FFC-B69E-1E248F3FD53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0566078B-754D-4FFC-B69E-1E248F3FD53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0566078B-754D-4FFC-B69E-1E248F3FD53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0566078B-754D-4FFC-B69E-1E248F3FD53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2906227-123C-46FF-8479-9A727B5984BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2906227-123C-46FF-8479-9A727B5984BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2906227-123C-46FF-8479-9A727B5984BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2906227-123C-46FF-8479-9A727B5984BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC2F4F5-0072-4AFB-9B46-34A3D0BCFF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC2F4F5-0072-4AFB-9B46-34A3D0BCFF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC2F4F5-0072-4AFB-9B46-34A3D0BCFF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC2F4F5-0072-4AFB-9B46-34A3D0BCFF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
